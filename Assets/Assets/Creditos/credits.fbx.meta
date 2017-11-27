@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 245db3d22ad7e4842a586769286538ad
+timeCreated: 1485515369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Agradecimento_Especial
+    100002: Benardo_Marinho
+    100004: Cap_1
+    100006: Cap_2
+    100008: Christian_Marques
+    100010: CINEMA_4D_Editor
+    100012: //RootNode
+    100014: Duarte_Gandum
+    100016: Hipponaut
+    100018: Manuel_Santiago
+    100020: "Mariana__Carolina__Gon\xE7alves"
+    100022: Pedro_Motta
+    100024: Ricardo__Sega__Rodrigues
+    100026: Ricardo_Pinto
+    100028: Rounding
+    100030: Ruben_Mendes
+    100032: "Sebasti\xE3o_Lopes"
+    400000: Agradecimento_Especial
+    400002: Benardo_Marinho
+    400004: Cap_1
+    400006: Cap_2
+    400008: Christian_Marques
+    400010: CINEMA_4D_Editor
+    400012: //RootNode
+    400014: Duarte_Gandum
+    400016: Hipponaut
+    400018: Manuel_Santiago
+    400020: "Mariana__Carolina__Gon\xE7alves"
+    400022: Pedro_Motta
+    400024: Ricardo__Sega__Rodrigues
+    400026: Ricardo_Pinto
+    400028: Rounding
+    400030: Ruben_Mendes
+    400032: "Sebasti\xE3o_Lopes"
+    2300000: Agradecimento_Especial
+    2300002: Benardo_Marinho
+    2300004: Cap_1
+    2300006: Cap_2
+    2300008: Christian_Marques
+    2300010: Duarte_Gandum
+    2300012: Hipponaut
+    2300014: Manuel_Santiago
+    2300016: "Mariana__Carolina__Gon\xE7alves"
+    2300018: Pedro_Motta
+    2300020: Ricardo__Sega__Rodrigues
+    2300022: Ricardo_Pinto
+    2300024: Rounding
+    2300026: Ruben_Mendes
+    2300028: "Sebasti\xE3o_Lopes"
+    3300000: Agradecimento_Especial
+    3300002: Benardo_Marinho
+    3300004: Cap_1
+    3300006: Cap_2
+    3300008: Christian_Marques
+    3300010: Duarte_Gandum
+    3300012: Hipponaut
+    3300014: Manuel_Santiago
+    3300016: "Mariana__Carolina__Gon\xE7alves"
+    3300018: Pedro_Motta
+    3300020: Ricardo__Sega__Rodrigues
+    3300022: Ricardo_Pinto
+    3300024: Rounding
+    3300026: Ruben_Mendes
+    3300028: "Sebasti\xE3o_Lopes"
+    4300000: Hipponaut
+    4300002: Rounding
+    4300004: Cap_1
+    4300006: Cap_2
+    4300008: Benardo_Marinho
+    4300010: Christian_Marques
+    4300012: Duarte_Gandum
+    4300014: Manuel_Santiago
+    4300016: Pedro_Motta
+    4300018: Ricardo_Pinto
+    4300020: Ricardo__Sega__Rodrigues
+    4300022: Ruben_Mendes
+    4300024: "Sebasti\xE3o_Lopes"
+    4300026: Agradecimento_Especial
+    4300028: "Mariana__Carolina__Gon\xE7alves"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

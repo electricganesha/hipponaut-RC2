@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 4d34335472f53c64dabb32aa351ac604
+timeCreated: 1485057675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: waves_0
+    21300002: waves_1
+    21300004: waves_2
+    21300006: waves_3
+    21300008: waves_4
+    21300010: waves_5
+    21300012: waves_6
+    21300014: waves_7
+    21300016: waves_8
+    21300018: waves_9
+    21300020: waves_10
+    21300022: waves_11
+    21300024: waves_12
+    21300026: waves_13
+    21300028: waves_14
+    21300030: waves_15
+    21300032: waves_16
+    21300034: waves_17
+    21300036: waves_18
+    21300038: waves_19
+    21300040: waves_20
+    21300042: waves_21
+    21300044: waves_22
+    21300046: waves_23
+    21300048: waves_24
+    21300050: waves_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waves_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3676
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3676
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3676
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3676
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3174
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3174
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3174
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3174
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2672
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2672
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_10
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2672
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2672
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2170
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2170
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_14
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2170
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_15
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2170
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1668
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1668
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_18
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1668
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_19
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1668
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1166
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1166
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_22
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1166
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_23
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1166
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 664
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waves_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 664
+        width: 466
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

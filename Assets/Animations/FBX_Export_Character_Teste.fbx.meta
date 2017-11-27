@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2ff44470cb1892c40bf3a137ec77b0b2
+timeCreated: 1485017141
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: All_CTL
+    100002: Astro_GEO
+    100004: //RootNode
+    100006: l_Ankle_JNT
+    100008: l_arm_GRP
+    100010: l_armElbow_JNT
+    100012: l_armShoulder_JNT
+    100014: l_BallRoll_CTL
+    100016: l_BallRoll_JNT
+    100018: l_BallRollOrient_GRP
+    100020: l_Foot_GRP
+    100022: l_Hand_GRP
+    100024: l_HandMid_JNT
+    100026: l_HandRoot_JNT
+    100028: l_Leg_GRP
+    100030: l_legIK_CTL
+    100032: l_LegIKMid_JNT
+    100034: l_LegIKRoot_JNT
+    100036: l_Palm_JNT
+    100038: l_Thumb_GRP
+    100040: l_ThumbRoot_JNT
+    100042: m_Belly_CTL
+    100044: m_Belly_GRP
+    100046: m_Belly_JNT
+    100048: m_BellyOrient_GRP
+    100050: m_Head_CTL
+    100052: m_Head_GRP
+    100054: m_Head_GRP 1
+    100056: m_HeadExtra_CTL
+    100058: m_HeadExtraOrient_GRP
+    100060: m_headMid_JNT
+    100062: m_headRoot_JNT
+    100064: m_pelvis_GRP
+    100066: m_pelvis_JNT
+    100068: m_spine01_CTL
+    100070: m_spine01_JNT
+    100072: m_spine02_CTL
+    100074: m_spine02_JNT
+    100076: m_spine02Orient_GRP
+    100078: m_Spine03_CTL
+    100080: m_spine03_JNT
+    100082: m_Spine03Orient_GRP
+    100084: m_spine_GRP
+    100086: m_spineEnd_JNT
+    100088: r_Ankle_JNT
+    100090: r_arm_GRP
+    100092: r_armElbow_JNT
+    100094: r_armShoulder_JNT
+    100096: r_BallRoll_CTL
+    100098: r_BallRoll_JNT
+    100100: r_BallRollOrient_GRP
+    100102: r_Foot_GRP
+    100104: r_Hand_GRP
+    100106: r_HandMid_JNT
+    100108: r_HandRoot_JNT
+    100110: r_Leg_GRP
+    100112: r_legIK_CTL
+    100114: r_LegIKMid_JNT
+    100116: r_LegIKRoot_JNT
+    100118: r_Palm_JNT
+    100120: r_Thumb_GRP
+    100122: r_ThumbMid_JNT
+    100124: r_ThumbRoot_JNT
+    100126: r_ThumbTip_JNT
+    400000: All_CTL
+    400002: Astro_GEO
+    400004: //RootNode
+    400006: l_Ankle_JNT
+    400008: l_arm_GRP
+    400010: l_armElbow_JNT
+    400012: l_armShoulder_JNT
+    400014: l_BallRoll_CTL
+    400016: l_BallRoll_JNT
+    400018: l_BallRollOrient_GRP
+    400020: l_Foot_GRP
+    400022: l_Hand_GRP
+    400024: l_HandMid_JNT
+    400026: l_HandRoot_JNT
+    400028: l_Leg_GRP
+    400030: l_legIK_CTL
+    400032: l_LegIKMid_JNT
+    400034: l_LegIKRoot_JNT
+    400036: l_Palm_JNT
+    400038: l_Thumb_GRP
+    400040: l_ThumbRoot_JNT
+    400042: m_Belly_CTL
+    400044: m_Belly_GRP
+    400046: m_Belly_JNT
+    400048: m_BellyOrient_GRP
+    400050: m_Head_CTL
+    400052: m_Head_GRP
+    400054: m_Head_GRP 1
+    400056: m_HeadExtra_CTL
+    400058: m_HeadExtraOrient_GRP
+    400060: m_headMid_JNT
+    400062: m_headRoot_JNT
+    400064: m_pelvis_GRP
+    400066: m_pelvis_JNT
+    400068: m_spine01_CTL
+    400070: m_spine01_JNT
+    400072: m_spine02_CTL
+    400074: m_spine02_JNT
+    400076: m_spine02Orient_GRP
+    400078: m_Spine03_CTL
+    400080: m_spine03_JNT
+    400082: m_Spine03Orient_GRP
+    400084: m_spine_GRP
+    400086: m_spineEnd_JNT
+    400088: r_Ankle_JNT
+    400090: r_arm_GRP
+    400092: r_armElbow_JNT
+    400094: r_armShoulder_JNT
+    400096: r_BallRoll_CTL
+    400098: r_BallRoll_JNT
+    400100: r_BallRollOrient_GRP
+    400102: r_Foot_GRP
+    400104: r_Hand_GRP
+    400106: r_HandMid_JNT
+    400108: r_HandRoot_JNT
+    400110: r_Leg_GRP
+    400112: r_legIK_CTL
+    400114: r_LegIKMid_JNT
+    400116: r_LegIKRoot_JNT
+    400118: r_Palm_JNT
+    400120: r_Thumb_GRP
+    400122: r_ThumbMid_JNT
+    400124: r_ThumbRoot_JNT
+    400126: r_ThumbTip_JNT
+    4300000: Astro_GEO
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Astro_GEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

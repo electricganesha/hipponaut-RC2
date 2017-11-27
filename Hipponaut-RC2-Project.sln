@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hipponaut-RC2-Project", "Hipponaut-RC2-Project.csproj", "{1A794B36-9365-E78F-EE43-D9220DD91DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hipponaut-RC2-Project.Editor", "Hipponaut-RC2-Project.Editor.csproj", "{114CD2EC-BDFD-5F70-DA4B-E86545E21E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A794B36-9365-E78F-EE43-D9220DD91DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A794B36-9365-E78F-EE43-D9220DD91DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A794B36-9365-E78F-EE43-D9220DD91DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A794B36-9365-E78F-EE43-D9220DD91DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114CD2EC-BDFD-5F70-DA4B-E86545E21E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114CD2EC-BDFD-5F70-DA4B-E86545E21E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114CD2EC-BDFD-5F70-DA4B-E86545E21E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114CD2EC-BDFD-5F70-DA4B-E86545E21E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

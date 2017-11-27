@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 067e6dbc87e7f2c488c346fae1216401
+timeCreated: 1485091901
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: implosion gamma_0
+    21300002: implosion gamma_1
+    21300004: implosion gamma_2
+    21300006: implosion gamma_3
+    21300008: implosion gamma_4
+    21300010: implosion gamma_5
+    21300012: implosion gamma_6
+    21300014: implosion gamma_7
+    21300016: implosion gamma_8
+    21300018: implosion gamma_9
+    21300020: implosion gamma_10
+    21300022: implosion gamma_11
+    21300024: implosion gamma_12
+    21300026: implosion gamma_13
+    21300028: implosion gamma_14
+    21300030: implosion gamma_15
+    21300032: implosion gamma_16
+    21300034: implosion gamma_17
+    21300036: implosion gamma_18
+    21300038: implosion gamma_19
+    21300040: implosion gamma_20
+    21300042: implosion gamma_21
+    21300044: implosion gamma_22
+    21300046: implosion gamma_23
+    21300048: implosion gamma_24
+    21300050: implosion gamma_25
+    21300052: implosion gamma_26
+    21300054: implosion gamma_27
+    21300056: implosion gamma_28
+    21300058: implosion gamma_29
+    21300060: implosion gamma_30
+    21300062: implosion gamma_31
+    21300064: implosion gamma_32
+    21300066: implosion gamma_33
+    21300068: implosion gamma_34
+    21300070: implosion gamma_35
+    21300072: implosion gamma_36
+    21300074: implosion gamma_37
+    21300076: implosion gamma_38
+    21300078: implosion gamma_39
+    21300080: implosion gamma_40
+    21300082: implosion gamma_41
+    21300084: implosion gamma_42
+    21300086: implosion gamma_43
+    21300088: implosion gamma_44
+    21300090: implosion gamma_45
+    21300092: implosion gamma_46
+    21300094: implosion gamma_47
+    21300096: implosion gamma_48
+    21300098: implosion gamma_49
+    21300100: implosion gamma_50
+    21300102: implosion gamma_51
+    21300104: implosion gamma_52
+    21300106: implosion gamma_53
+    21300108: implosion gamma_54
+    21300110: implosion gamma_55
+    21300112: implosion gamma_56
+    21300114: implosion gamma_57
+    21300116: implosion gamma_58
+    21300118: implosion gamma_59
+    21300120: implosion gamma_60
+    21300122: implosion gamma_61
+    21300124: implosion gamma_62
+    21300126: implosion gamma_63
+    21300128: implosion gamma_64
+    21300130: implosion gamma_65
+    21300132: implosion gamma_66
+    21300134: implosion gamma_67
+    21300136: implosion gamma_68
+    21300138: implosion gamma_69
+    21300140: implosion gamma_70
+    21300142: implosion gamma_71
+    21300144: implosion gamma_72
+    21300146: implosion gamma_73
+    21300148: implosion gamma_74
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: implosion gamma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_37
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_53
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_60
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_61
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_63
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_66
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_67
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_69
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_70
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_71
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2692
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: implosion gamma_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
