@@ -28,3 +28,4 @@ DEVELOPER - Ruben Mendes
 ## Links
 * [GGJ](https://globalgamejam.org/2017/games/hipponaut) - Hipponaut on GGJ#17
 * [Project](https://pushvfx.com/projects/58c1a3eb7fe73c08b426e1aa) - Hipponaut Project Page
+* [Itch.io](https://electricganesha.itch.io/hipponaut) - Hipponaut Itch.io
